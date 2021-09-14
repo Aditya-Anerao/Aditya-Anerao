@@ -4,7 +4,7 @@
     - Project Management: skilled at leading various-sized teams towards achieving goals of stakeholders
     - Research & Development: capable of quickly learning complex topics and developing technical solutions
 - 🌱  I’m currently learning machine learning and data analytics
-- 👀  I’m interested in employment opportunities 
+- 👀  I’m interested in employment opportunities in data science and consulting.
 
 
 <!---
