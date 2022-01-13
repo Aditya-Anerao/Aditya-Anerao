@@ -1,8 +1,9 @@
 - 👋  Hi, I’m @Aditya-Anerao
-    I am a dedicated analytics professional with experience managing people and projects in the academic, healthcare, software, and pharmaceutical industries. Skills include:
-    - Communication: adept at explaining sophisticated concepts to executives, peers, and students
-    - Project Management: skilled at leading various-sized teams towards achieving goals of stakeholders
-    - Research & Development: capable of quickly learning complex topics and developing technical solutions
+    Dedicated analytics consulting professional with 5+ years of experience leading people and projects in the pharmaceutical, software and healthcare industries. Demonstrated success in the following:
+    - Programming: Proficient (intermediate) in Python, R, SQL (MSSQL, Postgres SQL), SAS
+    - Communication: Adept at translating technical concepts to executives, peers, and students
+    - Project Management: Skilled at leading various-sized teams towards achieving goals of stakeholders
+    - Research & Development: Capable of quickly learning complex topics and synthesizing technical solutions
 - 🌱  I’m currently learning machine learning and data analytics
 - 👀  I’m interested in employment opportunities in data science and consulting.
 
